@@ -65,7 +65,7 @@ export const livePools: SerializedPoolConfig[] = [
 		stakingToken: serializedTokens.rice,
 		earningToken: serializedTokens.xRice,
 		contractAddress: {
-			32520: '0xa332B473BC5CFFA3e0993a8665EF3f7f6a47C8D7',
+			32520: '0x61fa23D4376CF069E484Bcb3C67d4422320C75e9',
 			56: '',
 			97: '',
 		},
