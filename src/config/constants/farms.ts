@@ -34,8 +34,7 @@ const farms: SerializedFarmConfig[] = [
     quoteToken: serializedTokens.wbnb,
   },
   {
-    pid: 1,
-    v1pid: 1,
+    pid: 9,
     lpSymbol: 'xRICE-BRISE LP',
     lpAddresses: {
       32520: '0x969d4C83969deB4363417C07A7D502A307d0D1D2',
@@ -69,7 +68,6 @@ const farms: SerializedFarmConfig[] = [
     token: serializedTokens.ypc,
     quoteToken: serializedTokens.wbnb,
   },
-
 ].filter((f) => !!f.lpAddresses[CHAIN_ID])
 
 export default farms
