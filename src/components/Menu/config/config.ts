@@ -85,24 +85,36 @@ const config: (t: ContextApi['t'], languageCode?: string) => ConfigMenuItemsType
   //     },
   //   ],
   // },
+  // {
+  //   label: t('NFT'),
+  //   href: ``,
+  //   icon: NftIcon,
+  //   fillIcon: NftFillIcon,
+  //   items: [
+  // {
+  //   label: t('Overview'),
+  //   href: `${nftsBaseUrl}`,
+  // },
+  // {
+  //   label: t('Collections'),
+  //   href: `${nftsBaseUrl}/#`,
+  // },
+  // {
+  //   label: t('Activity'),
+  //   href: `${nftsBaseUrl}/#`,
+  // },
+  //   ],
+  // },
   {
-    label: t('NFT'),
-    href: ``,
+    label: t('Switch Chain'),
+    href: '',
     icon: NftIcon,
     fillIcon: NftFillIcon,
     items: [
-      // {
-      //   label: t('Overview'),
-      //   href: `${nftsBaseUrl}`,
-      // },
-      // {
-      //   label: t('Collections'),
-      //   href: `${nftsBaseUrl}/#`,
-      // },
-      // {
-      //   label: t('Activity'),
-      //   href: `${nftsBaseUrl}/#`,
-      // },
+      {
+        label: t('DogeChain'),
+        href: 'https://dogeswap.riceprotocol.org',
+      },
     ],
   },
   // {
