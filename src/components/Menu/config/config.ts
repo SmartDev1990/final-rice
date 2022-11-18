@@ -106,15 +106,15 @@ const config: (t: ContextApi['t'], languageCode?: string) => ConfigMenuItemsType
   //   ],
   // },
   {
-    label: t('Switch Chain'),
-    href: '',
+    label: t('DogeChain'),
+    href: 'https://dogeswap.riceprotocol.org',
     icon: NftIcon,
     fillIcon: NftFillIcon,
     items: [
-      {
-        label: t('DogeChain'),
-        href: 'https://dogeswap.riceprotocol.org',
-      },
+      //     {
+      //       label: t('DogeChain'),
+      //       href: 'https://dogeswap.riceprotocol.org',
+      //     },
     ],
   },
   // {

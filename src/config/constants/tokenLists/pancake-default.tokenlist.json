@@ -68,6 +68,22 @@
       "logoURI": "https://raw.githubusercontent.com/smartdev1990/default-token-list/main/assets/tokens/brise/0x611a767AE0b231e82Da8711294A378F5639Af037/logo.png"
     },
     {
+      "name": "Ardiansyah Crypto",
+      "symbol": "ARCO",
+      "address": "0xbfa6394b9898566652276f1Fb40d65e75787D66f",
+      "chainId": 32520,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/smartdev1990/default-token-list/main/assets/tokens/brise/0xbfa6394b9898566652276f1Fb40d65e75787D66f/logo.png"
+    },
+    {
+      "name": "Young Parrot",
+      "symbol": "YPC",
+      "address": "0x11203a00a9134Db8586381C4B2fca0816476b3FD",
+      "chainId": 32520,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/smartdev1990/default-token-list/main/assets/tokens/brise/ypc/logo.png"
+    },
+    {
       "name": "BUSD",
       "symbol": "BUSDi",
       "address": "0xd0CE781960c6356A7175988751bfC8d7cd28EA60",
