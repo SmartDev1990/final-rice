@@ -106,8 +106,8 @@ const config: (t: ContextApi['t'], languageCode?: string) => ConfigMenuItemsType
   //   ],
   // },
   {
-    label: t('DogeChain'),
-    href: 'https://dogeswap.riceprotocol.org',
+    label: t('Core Chain'),
+    href: 'https://Core.riceprotocol.org',
     icon: NftIcon,
     fillIcon: NftFillIcon,
     items: [
